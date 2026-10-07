@@ -1,2 +1,4 @@
 # AJP_PRACTICAL_IIIBCAA_P1-P19
-Repo for Program 1 to 19 
+Create a Folder must contain register number and name. Upload Your Ajp practical programs from 1 to 19 in this respositry. 
+
+
